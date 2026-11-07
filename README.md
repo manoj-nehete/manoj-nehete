@@ -111,18 +111,18 @@ I enjoy analyzing data, solving business problems, optimizing processes, trouble
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=dudehost&theme=dark&hide_border=true&include_all_commits=false&count_private=false" height="165" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=dudehost&theme=dark&hide_border=true" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.shion.dev/api?username=manoj-nehete&theme=dark&hide_border=true&include_all_commits=false&count_private=false" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=manoj-nehete&theme=dark&hide_border=true" height="165" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=dudehost&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=manoj-nehete&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dudehost&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=manoj-nehete&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 <p align="center">
