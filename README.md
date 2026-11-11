@@ -71,14 +71,14 @@ I enjoy analyzing data, solving business problems, optimizing processes, trouble
 ## 🚀 Projects
 
 <p align="center">
-  <a href="https://6t9.net" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/manoj-nehete/scopelock" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/scopelock-Visit_Project-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="scopelock" />
   </a>
   <a href="https://api.post.in" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/api.post.in-Visit_Project-2EA44F?style=for-the-badge&logo=api&logoColor=white" alt="api.post.in" />
   </a>
-  <a href="https://onlinemba.club" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/onlinemba.club-Visit_Project-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="onlinemba.club" />
+  <a href="https://6t9.net" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/6t9.net-Visit_Project-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="6t9.net" />
   </a>
 </p>
 
